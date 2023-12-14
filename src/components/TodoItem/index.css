@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.useCardContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.TodoItemPara {
+  font-size: 20px;
+  color: black;
+}
+.button {
+  color: #ff0b37;
+  border: 1px solid #ff0b37;
+  border-radius: 10px;
+  padding: 5px;
+  height: 30px;
+  width: 80px;
+}
+.btnContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
